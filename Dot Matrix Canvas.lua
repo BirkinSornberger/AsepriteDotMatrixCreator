@@ -55,7 +55,6 @@ Dialog:button{ id="ok", text="OK", onclick=function()
     end
   end
 
-
   local brush = Brush(brushImage)
 
   app.activeBrush = brush
