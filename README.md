@@ -1,4 +1,5 @@
 NOTE: Upon creating a new canvas, you must enable "Pattern aligned to source" Likely at the top of Aseprite under the "Paint Brush" drop down.
+
 This script will create a canvas for you in Aseprite that is setup for creating art in a dot matrix display style.
 
 What it does is creates a black 12x12 square brush, this is your new pixel size.
