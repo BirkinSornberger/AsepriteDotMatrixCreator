@@ -19,4 +19,7 @@ There are still a couple issues, such as I'd like to automatically enable "Patte
 a new canvas. 
 As well as change the "selection" point of the custom brush to be in the center, instead of the bottom right.
 
+The font found in the repository was created by me and is completely free to use. I only ask that you don't try to sell it
+as is, but feel free to use it in any projects or games that you intend to monetize, no credit necessary!
+
 Enjoy!
